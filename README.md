@@ -1,4 +1,4 @@
-# Blog Lyfe
+# Blog App
 
 ##### This is going to be a full CRUD blog application with a couple of interesting features implemented:
 
@@ -21,7 +21,7 @@
 
 - React
 - CSS
-- Bootstrap
+- Material ui
 - netlify.com
 
 ### Routes 
