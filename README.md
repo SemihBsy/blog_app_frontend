@@ -67,7 +67,7 @@
 ### Link to Project
 
 [Backend Deployed Project Page](https://blog-app-backend-wimx.onrender.com)  
-[Frontend Deployed Project Page](https://resonant-kitten-cf592a.netlify.app)
+[Frontend Deployed Project Page](https://bloglyfe.netlify.app/)
 
 
 
